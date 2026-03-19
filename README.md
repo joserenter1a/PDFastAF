@@ -1,6 +1,6 @@
-# Report Creator
+# PDFastAF
 
-A desktop application for building customizable PDF reports by dragging in tabular data files (CSV, Excel) and arranging them visually. Reports are rendered in real time using ReportLab and previewed inline.
+A desktop application for building customizable PDF reports (Fast AF) by dragging in tabular data files (CSV, Excel) and arranging them visually. Reports are rendered in real time using ReportLab and previewed inline.
 
 ---
 
