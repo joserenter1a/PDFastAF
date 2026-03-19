@@ -1,0 +1,12 @@
+[project]
+name = "report-creator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.1",
+    "pyqt6>=6.10.2",
+    "pyqt6-webengine>=6.10.0",
+    "reportlab>=4.4.10",
+]
